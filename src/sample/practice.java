@@ -210,10 +210,12 @@ driver.get("https://automationexplore.com/selenium-automation-practice-page/");
 	System.out.println("New branch created");
 	
 	
+	System.out.println("Swathi branch code");
 	System.out.println("New branch code added");
 	
 	
-	System.out.println("Swathi branch code");
+
+	
 	
 	
 
