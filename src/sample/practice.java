@@ -210,7 +210,7 @@ driver.get("https://automationexplore.com/selenium-automation-practice-page/");
 	System.out.println("New branch created");
 	
 	
-	System.out.println("Conflict branch code");
+	System.out.println("New branch code");
 	System.out.println("Swathi branch code");
 	
 	
